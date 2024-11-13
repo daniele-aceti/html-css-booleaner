@@ -1,5 +1,6 @@
 #logo-the-booleaner{
-
+      width: 200px;
+      padding: 40px;
 }
 
 .title-date-photo{
@@ -11,4 +12,17 @@
 }
 #selector-p{
     background-color: yellow;
+}
+.table{
+    width: 80%;
+    color: black;
+}
+.table th{
+    background-color: rgb(93, 93, 239);
+}
+#copyright{
+    background-color: rgb(5, 5, 104);
+    text-align: center;
+    color: white;
+    padding: 5px;
 }
