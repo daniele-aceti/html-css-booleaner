@@ -2,10 +2,13 @@
 
 }
 
-.title-date-foto{
+.title-date-photo{
     text-align: left;
     margin-left: 5%;
 }
-.title-date-foto p{
+.title-date-photo > p{
     margin-top: -1%;
+}
+#selector-p{
+    background-color: yellow;
 }
