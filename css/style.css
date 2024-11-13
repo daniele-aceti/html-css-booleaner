@@ -1,15 +1,12 @@
 /*intestazione*/
-nav{
-    background-color: rgb(64, 175, 215);
-    background-image: url("/img/pattern.png");
-}
 
 #logo-the-booleaner{
-    width: 100%;
-    padding: 20px;
+    background-color: rgb(64, 175, 215);
+    background-image: url("/img/pattern.png");
     height: 100px;
     margin-left: -10px;
 }
+
 #logo-the-booleaner img{
     margin-left: 170px;
     margin-top: 15px;
