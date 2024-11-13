@@ -4,11 +4,11 @@ nav{
     background-image: url("/img/pattern.png");
 }
 
-
 #logo-the-booleaner{
     width: 100%;
     padding: 20px;
     height: 100px;
+    margin-left: -10px;
 }
 #logo-the-booleaner img{
     margin-left: 170px;
@@ -18,7 +18,7 @@ nav{
 
 .title-date-photo{
     text-align: left;
-    margin-left: 50px;
+    margin-left: 120px;
 }
 .title-date-photo > p{
     margin-top: -15px;
@@ -52,7 +52,7 @@ nav{
     color: white;
 }
 .table td{
-    width: 600px;
+    width: 500px;
     background-color: rgba(186, 186, 238, 0.516);
 }
 #white-row td{
