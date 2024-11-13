@@ -1,28 +1,72 @@
+/*header*/
+nav{
+    background-color: rgb(64, 175, 215);
+    background-image: url("/img/pattern.png");
+}
+
+
 #logo-the-booleaner{
-      width: 200px;
-      padding: 40px;
+    width: 100%;
+    padding: 20px;
+    height: 100px;
+}
+#logo-the-booleaner img{
+    margin-left: 170px;
+    margin-top: 15px;
+    width: 250px;
 }
 
 .title-date-photo{
     text-align: left;
-    margin-left: 5%;
+    margin-left: 50px;
 }
 .title-date-photo > p{
-    margin-top: -1%;
+    margin-top: -15px;
+    line-height: 1;
 }
+
+/*fine*/
+
+/*paragrafo-foto*/
+
 #selector-p{
     background-color: yellow;
 }
-.table{
-    width: 80%;
-    color: black;
+#didascalia-photo{
+    margin-top: -10px;
+    line-height: 0.3;
+    font-size: small;
 }
+
+/*lista*/
+
+#lista{
+    margin-left: -20px;
+}
+
+
+/*tabella*/
+
 .table th{
-    background-color: rgb(93, 93, 239);
+    background-color: rgb(95, 156, 221);
+    color: white;
 }
+.table td{
+    width: 600px;
+    background-color: rgba(186, 186, 238, 0.516);
+}
+#white-row td{
+    background-color: white;
+}
+
+/*fine*/
+
+/*footer*/
+
 #copyright{
     background-color: rgb(5, 5, 104);
     text-align: center;
     color: white;
     padding: 5px;
 }
+
